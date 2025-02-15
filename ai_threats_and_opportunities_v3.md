@@ -1,5 +1,37 @@
 # AI Threats & Opportunities
 
+## Introduction to AI Evolution: ANI, AGI, and ASI for Business Leaders
+
+Artificial Intelligence (AI) is transforming industries today, but it's important to understand that not all AI is created equal. AI can be broadly categorized into three levels, each with distinct capabilities and implications for business:
+
+**Artificial Narrow Intelligence (ANI): <-- This is where we are today**  
+  ANI refers to systems designed for specific tasks, such as customer service chatbots, recommendation engines, and automated data analysis. These systems are highly efficient at performing predefined functions but lack the ability to adapt or understand context beyond their programmed scope. In today's business landscape, ANI is already widely used to improve efficiency, reduce costs, and enhance customer experiences. 
+
+**Generative AI** tools like ChatGPT from OpenAI and Claude from Anthropic should be familiar to most people by now, but it is only one type of ANI. Others include:
+  - **Reactive Machines:** Systems that operate solely on current input without using past experience (e.g., Deep Blue).
+  - **Limited Memory AI:** Systems that use historical data for decision-making, such as self-driving cars and virtual assistants.
+  - **Expert Systems:** Rule-based systems designed for specific domains (e.g., diagnostic systems in healthcare).
+  - **Chatbots and Digital Assistants:** Applications that simulate conversation and perform task-specific interactions (e.g., Siri, Alexa).
+  - **Recommendation Engines:** Systems that analyze user data to suggest products or content (e.g., Netflix or Amazon recommendations).
+  - **Predictive Maintenance Models:** AI that forecasts equipment failures using sensor data in industrial settings.
+
+**Artificial General Intelligence (AGI):**  
+  AGI represents a level of AI that can understand, learn, and apply knowledge across a wide range of tasks at a human-like level of intelligence. Unlike ANI, AGI would be capable of adapting to new situations without explicit reprogramming. For businesses, the emergence of AGI could revolutionize decision-making processes, drive innovation, and offer unprecedented problem-solving capabilities, though it also introduces complex ethical and operational challenges.
+
+**Artificial Superintelligence (ASI):**  
+  ASI goes beyond human-level intelligence, potentially surpassing our ability to understand or control its actions. ASI could optimize systems and create opportunities we haven’t yet imagined, but it also poses significant risks if its objectives are not perfectly aligned with human values and business goals. The long-term impact of ASI on industries could be transformative, affecting everything from strategic planning to global economic stability.
+
+Understanding these distinctions helps business leaders anticipate the opportunities and challenges associated with each stage of AI development. The threats and opportunities introduced by ANI, AGI and then ASI becomes harder to predict the further we look into the future. 
+
+It's even harder to predict when we will see full AGI, some say at the end of 2025, others argue it will only be by 2028 or 2030.
+
+We therefore classify the short term, medium term and long term threats and opportunities of each stage of the AI development into ANI, AGI and ASI, rather than trying to forecast the number of years each stage will take.
+
+**In summary:**
+- **Short term** = Artificial Narrow Intelligence (ANI)
+- **Medium Term** = Artificial General Intelligence (AGI)
+- **Long Term** = Artificial Superintelligence (ASI)
+
 This report examines the immediate impacts of current AI (Artificial Narrow Intelligence, ANI) across key domains. For each section, we provide a description of the domain, outline the opportunities that AI brings, detail the threats that arise, and include real-world examples to illustrate both sides. 
 
 This framework is intended to serve as a foundation for further research and eventual expansion into medium-term (AGI) and long-term (ASI) analyses.
