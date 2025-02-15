@@ -1,8 +1,35 @@
-# AI Threats and Opportunities Mind Map
+# AI Threats & Opportunities Framework
+
 ```
 AI Threats & Opportunities
 ├── Business Environment
 │   ├── Cybersecurity
+|       ├── Opportunities
+|           ├── Short Term
+|               ├──
+|               ├──
+|               ├──
+|          ├── Medium Term
+|               ├──
+|               ├──
+|               ├──
+|          ├── Long Term
+|               ├──
+|               ├──
+|               ├──
+|       ├── Threats
+|          ├── Short Term
+|              ├──
+|              ├──
+|              ├──
+|          ├── Medium Term
+|              ├──
+|              ├──
+|              ├──
+|          ├── Long Term
+|              ├──
+|              ├──
+|              ├──
 │   ├── Automation & Workforce Displacement
 │   ├── New Market Creation & AI-Driven Competition
 │   ├── Financial Services Applications
