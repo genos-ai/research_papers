@@ -31,7 +31,7 @@ Key stakeholders used in this analysis include:
 
 Below, each of these stakeholders is analysed in more detail.
 
-## 2.1 Customers (Highest Level of Influence)
+## 2.1 Customers
 
 This stakeholder group has the highest level of influence on the business and should therefore be closely monitored. Customers are interested in high‐quality and ethically sourced products available at a reasonable price, especially as taxes and inflation rates increase over time.
 
@@ -144,23 +144,37 @@ Although this is an improvement, Woolworths still underperforms compared to comp
 
 *Improvements could include prioritising debt collection and implementing stricter credit checks to enhance liquidity.*
 
+### Summary of Financial Analysis
+
+In summary, the analysis of profitability and liquidity ratios demonstrates that while Woolworths Food has experienced revenue fluctuations and a decline in operating profit, its premium pricing strategy and ethical sourcing practices have supported improvements in both gross and net profit margins. Although liquidity ratios indicate some challenges, particularly in managing current assets and liabilities, these factors suggest that focused financial strategies could further strengthen the company’s financial performance.
+
 ---
 
 # 4. Market Share Analysis
 
-Market share is calculated as:
+Market share provides a direct measure of Woolworths Food’s competitive position in South Africa, reflecting the proportion of total market revenue captured by the retailer. As noted earlier, Woolworths maintained a market share of approximately 12% in the national food and clothing sectors, which increased to 13.5% by 2024 (10). This incremental gain is significant when considered in the context of the retailer's ethical sourcing practices.
 
-```
-Market Share (%) = (Woolworths Revenue / Total Market Revenue) × 100
-```
+Ethical sourcing practices contribute to market share growth in several ways:
 
-Woolworths’ market position benefited from an expanded online presence—especially with the Woolies Dash app—which helped capture changing consumer behaviour post-pandemic (10).
+- **Brand Differentiation and Consumer Trust:**  
+  By emphasising sustainability—through sourcing 100% cage-free eggs, reducing plastic packaging, and ensuring responsible sourcing of raw materials—Woolworths Food differentiates itself from competitors. This strategy has fostered consumer trust and loyalty, as reflected in rising Customer Care scores (5). Consumers increasingly prefer to patronise retailers that align with their values, thereby driving incremental market share gains.
 
-Woolworths maintained a market share of approximately 12% in the national food and clothing sectors, which increased to 13.5% by 2024 (10). This modest increase suggests that the company’s focus on sustainability—such as sourcing 100% cage-free eggs and reducing plastic packaging—has contributed to retaining and slightly growing its market share despite competitive pressures from retailers targeting lower-income customers.
+- **Enhanced Online and Omni-channel Presence:**  
+  The expansion of Woolworths’ online presence, particularly via the Woolies Dash app, has enabled the company to tap into changing consumer behaviour post-pandemic. This move not only broadens the customer base but also reinforces the ethical brand image by offering transparency regarding sourcing and product origin (10).
+
+- **Competitive Premium Positioning:**  
+  Woolworths’ premium pricing strategy, bolstered by ethical sourcing, allows the retailer to command higher profit margins compared to competitors. While competitors such as ShopRite and Pick n Pay cater to a more price-sensitive market segment, Woolworths attracts consumers who are willing to pay a premium for ethically and sustainably sourced products. This competitive advantage contributes to market share stability and even growth, despite a challenging economic landscape.
+
+- **Alignment with Broader Market Trends:**  
+  As sustainability becomes increasingly important globally, ethical sourcing practices not only enhance financial performance through improved margins but also contribute to market share retention. Woolworths’ modest but steady market share increase from 12% to 13.5% over the analysed period reflects its ability to capitalise on evolving consumer preferences and broader market trends.
+
+### Summary of Market Share Analysis
+
+In summary, this expanded market share analysis demonstrates that Woolworths Food’s ethical sourcing practices are not merely a facet of corporate social responsibility—they are a strategic asset underpinning the company’s market positioning. The ability to maintain and modestly grow market share from 2022 to 2024 illustrates that ethical sourcing has been a key driver in sustaining customer loyalty and competitive advantage, directly impacting the retailer's financial performance as outlined in the research question.
 
 ---
 
-# 5. Conclusion (Final)
+# 5. Conclusion
 
 In conclusion, the analysis using stakeholder mapping, financial ratios, and market share metrics demonstrates that Woolworths Food’s ethical sourcing practices have positively impacted its financial performance and market share in South Africa from 2022 to 2024.
 
